@@ -6,6 +6,6 @@ public class UserService {
 
 	public USer getUserDetails(String userName)
 	{
-		return new USer();
+		return new USer("1","2");
 	}
 }

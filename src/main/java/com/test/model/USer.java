@@ -16,5 +16,11 @@ public class USer {
 		this.lastName = lastName;
 	}
 	private String lastName;
+	
+	public USer(String firstName,String lastName)
+	{
+		this.firstName = firstName;
+		this.lastName = lastName;
+	}
 
 }

@@ -1,6 +1,6 @@
 package com.test.services;
 
-import com.test.model.USer;
+import com.test.model.user.USer;
 
 public class UserService {
 
